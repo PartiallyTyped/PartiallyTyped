@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**PartiallyTyped/PartiallyTyped** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![image](https://github.com/PartiallyTyped/PartiallyTyped/assets/52372765/ce6325bc-6a47-465a-9ca2-342a77c8f22f)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on:
+  - AWS/Database Migration Service
+  - [rust-lang/clippy](https://github.com/rust-lang/clippy)
+- 🌱 I’m currently learning
+  - Database and query engine internals
+  - Query planners
+- 💬 Ask me about:
+  - Machine learning
+    - Reinforcement Learning 
+    - LLMs
+  - Numerical Optimization
+- 📫 How to reach me: me-at-username@.dev
