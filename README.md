@@ -13,4 +13,4 @@
     - Reinforcement Learning 
     - LLMs
   - Numerical Optimization
-- 📫 How to reach me: me-at-username@.dev
+- 📫 How to reach me: me-at-username-dot-dev
