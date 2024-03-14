@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-![image](https://github.com/PartiallyTyped/PartiallyTyped/assets/52372765/ce6325bc-6a47-465a-9ca2-342a77c8f22f)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-rph)](https://github.com/anuraghazra/github-readme-stats)
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=m-rph&show_icons=true&locale=en&layout=compact" alt="m-rph" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m-rph&" alt="m-rph" /></p>
+
 
 - 🔭 I’m currently working at / on :
   - AWS/Database Migration Service
