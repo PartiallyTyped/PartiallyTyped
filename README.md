@@ -14,6 +14,6 @@
     - Reinforcement Learning 
     - LLMs
   - Numerical Optimization
-- 📫 How to reach me: me-at-partiallytyped-dot-dev
+- 📫 How to reach me: me [at] m-rph [dot] dev
 - I am open to job opportunities in De/NL/Dk/Se/Fi/No
   - preferably something with compilers or rust
