@@ -6,6 +6,7 @@
 - 🔭 I’m currently working:
   - for AWS/λ
   - on [rust-lang/clippy](https://github.com/rust-lang/rust-clippy)
+  - on A symbolic data generation engine
 - 🌱 I’m currently learning about:
   - Database and query engine internals
   - Symbolic execution
