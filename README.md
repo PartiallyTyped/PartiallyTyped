@@ -5,6 +5,6 @@
 
 - 🔭 I’m currently working for AWS/λ; in the managed runtimes team.
 - 🌱 I’m currently learning about:
- - Interpreters
- - Runtimes
- - Compilers 
+  - Interpreters
+  - Runtimes
+  - Compilers 
